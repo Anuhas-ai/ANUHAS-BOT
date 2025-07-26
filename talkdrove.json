@@ -1,0 +1,19 @@
+{
+    "bot-name": "ANUHAS-MD",
+    "description": "A Whatsapp user bot",
+    "logo": "https://mv-visper-full-db.pages.dev/Data/visper_main.jpeg",
+    "keywords": ["bot"],
+    "documentation-link": "https://session.talkdrove.com",
+    "owner-verification":"talkdrove@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "MOVIE-VISPER=PpYW3LhS#jppD4PIqwzC4QoRFVevWLpB3d6h0z_LpWr6qh1JD5nw",
+        "value":"",
+        "required": true
+        
+      }
+     
+    }
+  
+  }
